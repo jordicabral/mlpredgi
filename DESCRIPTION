@@ -11,5 +11,5 @@ Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.5.0), caret, kableExtra, neuralnet, kernlab, rpart, randomForest
 Suggests: ggplot2
-URL: (Repositorio github)
+URL: https://github.com/jordicabral/mlpredgi
 RoxygenNote: 7.0.2
